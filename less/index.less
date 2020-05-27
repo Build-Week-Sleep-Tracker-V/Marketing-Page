@@ -350,7 +350,18 @@ body{
                 }    
                 
                 button{ 
-                                   
+                    a{
+                        text-decoration: none;
+                        color: black;
+                        
+                        @media @mobile{
+
+                            font-size: @fontsize-7;
+                            color:  rgb(141, 202, 243);
+                                        
+                        }   
+                    }  
+
                     @media @tablet{
 
                         width: 70%;        
@@ -1185,5 +1196,16 @@ body{
 
     
     }//this close first section
+
+    #get-toknow{
+        div{
+
+            color: cornflowerblue;
+            h1{
+                 color: cornflowerblue;
+            }
+           
+        }
+    }
    
 } //this close about html style 
