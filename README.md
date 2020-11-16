@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-## a href="https://build-week-sleep-tracker-v.github.io/Marketing-Page/">Link to project site</a>
+## <a href="https://build-week-sleep-tracker-v.github.io/Marketing-Page/">Link to project site</a>
 <br>
 You can use the [editor on GitHub](https://github.com/Build-Week-Sleep-Tracker-Vick/Marketing-Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
